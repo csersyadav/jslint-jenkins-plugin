@@ -1,4 +1,4 @@
-JSLint for Jenkins
+JSLint for Jenkins (NOT in Working State)
 ==================
 
 A Jenkins plugin which bundles JSLint and Rhino and lints your code. [Official plugin page](https://wiki.jenkins-ci.org/display/JENKINS/JSLint+plugin).
